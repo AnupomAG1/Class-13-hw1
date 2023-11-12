@@ -26,10 +26,10 @@
     --transition-medium: .6s;
     --transition-slow:.8s ;
 }
-#topbar .container .row #Thumb{
-  width:100px;
+body .THUMBNAIL{
+  width: 100px;
   position: absolute;
-  opacity: 0;
+  visibility: hidden;
 }
 /* common css starting */
 * {
